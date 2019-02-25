@@ -10,7 +10,7 @@ else
 
   return false  
   
-else if board.between? (0,8) == true 
+else if index.between? (0,8) == true 
   
 end 
 end 
