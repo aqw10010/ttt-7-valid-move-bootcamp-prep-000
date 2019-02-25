@@ -9,7 +9,7 @@ else
   return false  
   
 else 
-  return nil 
+  return board[index] == nil 
   
 end 
 end 
