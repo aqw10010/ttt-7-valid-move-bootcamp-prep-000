@@ -8,6 +8,9 @@ if board[index] == " " || board[index] == "" || board[index] == nil
 else 
   return false  
   
+else 
+  return nil 
+  
 end 
 end 
 
