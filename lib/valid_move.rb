@@ -1,4 +1,5 @@
 # code your #valid_move? method here
+array =[]
 
 def valid_move?(board, index)
 if array[index] == " " || array[index] == "" || array[index] == nil
