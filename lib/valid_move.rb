@@ -3,6 +3,10 @@
 def valid_move?(board, index)
 if array[index] == " " || array[index] == "" || array[index] == nil
   
+  return false 
+  
+else 
+  return true 
   
 end 
   
