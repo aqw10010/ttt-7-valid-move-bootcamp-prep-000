@@ -8,12 +8,10 @@ if board[index] == " " || board[index] == "" || board[index] == nil
 else 
   return false  
   
-else 
-  return board[index] == nil 
   
 end 
 end 
-end 
+
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
 
